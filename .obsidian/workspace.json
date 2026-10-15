@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "2d4b5b1855f3ccfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b43949de47c6a1",
+        "type": "split",
+        "children": [
+          {
+            "id": "d21f8e2cdbec8d89",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa3b27412a9c6afd",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Lecture/Lecture 03 - Machine Learning Pipeline.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 03 - Machine Learning Pipeline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "898ae5523e02bbfc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37bc4422e94b9fb9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\AIML",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "win32Backend": "conpty"
+                      },
+                      "profileSourceId": "win32IntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "C:\\Windows\\System32\\cmd.exe"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb5e1cb57285ae57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7271bc6f4a6585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155e78238121c612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb9028e92c5949b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mainPage",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e559714e2193476a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b2aaf4bc5cb7344",
+    "type": "split",
+    "children": [
+      {
+        "id": "de819e74f8802e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fdd6b18e6435bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "868591924cc8585c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "696ef5625c94141d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d49a6175a39aeb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b24861beccbf89c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1bdaf17c902e7712",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Notes/Neuron.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.4000244140625,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "37bc4422e94b9fb9",
+  "lastOpenFiles": [
+    "Lecture/Lecture 03 - Machine Learning Pipeline.pdf",
+    "Notes/Neuron.md",
+    "Images/Pasted image 20261014213217.png",
+    "Images/Pasted image 20261014213119.png",
+    "Images/Pasted image 20261014212836.png",
+    "Images/Pasted image 20261014212827.png",
+    "Images/Pasted image 20261014212749.png",
+    "Images/Pasted image 20261014212706.png",
+    "Images/Pasted image 20261014212659.png",
+    "Images",
+    "file:C:/Users/LENOVO/.gemini/antigravity/scratch/binary_classification_dataset.md",
+    "Technologies to use when developing the website.md",
+    "Todo.md",
+    "Ideaboard.canvas",
+    "Tips for designing a portfolio website.md",
+    "விண்வெளி நாயகா.md",
+    "Hello.md",
+    "Images/Pasted image 20261009171411.png",
+    "Images/Color Hunt Palette faf3e1f5e7c6fa8112222222.png",
+    "Used Technologies.md",
+    "file:C:/Users/LENOVO/Downloads/Project Structure.md",
+    "Images/Pasted image 20261008155345.png",
+    "Frontend.md",
+    "2026-10-08.md",
+    "Discussion Page.md",
+    "Requirements.md",
+    "Technologies Used.md",
+    "Matthew.md",
+    "Uriah.md",
+    "Matthew - Family Tree.canvas",
+    "Charted Roots/People/Abraham.md",
+    "Charted Roots/People",
+    "Charted Roots",
+    "Family Tree.canvas",
+    "Books.md",
+    "Gemini.md",
+    "Genesis.md",
+    "file:E:/Documents/English/Types of Sentences.md",
+    "Hi.md",
+    "hi.md",
+    "Word-Smith/ws-structure.md",
+    "Word-Smith/ws-settings.md",
+    "Word-Smith"
+  ]
+}

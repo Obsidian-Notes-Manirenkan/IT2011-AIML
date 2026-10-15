@@ -1,0 +1,2 @@
+- **Type:** Classification
+- **Model:** Logistic Regression

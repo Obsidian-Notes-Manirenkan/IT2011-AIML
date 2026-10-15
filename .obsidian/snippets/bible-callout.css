@@ -1,0 +1,9 @@
+/* Bible callout title link */
+.callout[data-callout="bible"] .callout-title-inner a {
+	color: #d8c6a5 !important;
+}
+
+/* Bible callout header background */
+.callout[data-callout="bible"] .callout-title {
+	background-color: #453b2aff;
+}

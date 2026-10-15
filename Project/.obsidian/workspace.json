@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "8ba8c379905875d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6d5cc9b6c5753a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f22287cb2ee7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log Return.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Log Return"
+            }
+          },
+          {
+            "id": "58608e9a3476f97e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "E:\\Documents\\ICT\\SLIIT\\Year - 02\\Semester - 01\\AIML\\Project",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "C:\\Windows\\System32\\cmd.exe - agy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c645a1b532388131",
+    "type": "split",
+    "children": [
+      {
+        "id": "2608d9e1c42e8055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6ea80eb1396d75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b9fda67f61a7fb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae8e6e32367fbc14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "66d75bcca49cf20c",
+    "type": "split",
+    "children": [
+      {
+        "id": "704d86281c61b72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade872add19ee126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Handling Missing or Null Values.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5cface51564939f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Why Logistic Regression suits this dataset & problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "249bae1488195335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a6cbb9a9ee43342",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e022fe970b7dd584",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Handling Missing or Null Values.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "3dee4282c1c19f39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Handling Missing or Null Values.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "99f22287cb2ee7c4",
+  "lastOpenFiles": [
+    "Log Return.md",
+    "Hyperparameter Tuning.md",
+    "Handling the Outliers.md",
+    "Handling Missing or Null Values.md",
+    "Why Logistic Regression suits this dataset & problem.md",
+    "2026-10-05.md",
+    "Images/Recording 20261005225956.m4a",
+    "Threshold.md",
+    "Reason for the Volume being higher at some points.md",
+    "Removing Irrelevant Column & Adjusting.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Logistic Regression.md",
+    "Todo.md",
+    "Project's Hyperparameter Tuning.md",
+    "Images/Pasted image 20261005134649.png",
+    "Target.md",
+    "Images/Pasted image 20261005131734.png",
+    "Images/Pasted image 20261005131442.png",
+    "Images/Pasted image 20261005131310.png",
+    "Images/Pasted image 20261005131307.png",
+    "Images/Pasted image 20261005131305.png",
+    "Preprocessing.md",
+    "Specification Documents/~$Proposal-Presentation.pptx",
+    "Specification Documents/Proposal-Presentation.pptx",
+    "Project Specification.md",
+    "Date Handling.md",
+    "Specification Documents/Final Evaluation - Documentation.pdf",
+    "Specification Documents/Unconfirmed 777823.crdownload",
+    "Specification Documents/Final Evaluation - Implementation (1).pdf",
+    "Specification Documents/Unconfirmed 126322.crdownload",
+    "Log Value for 'Volume' Column.md",
+    "Images",
+    "Images/Pasted image 20261005072649.png",
+    "Return.md",
+    "Codes/pct_change().md",
+    "Codes/random_state.md",
+    "Codes"
+  ]
+}

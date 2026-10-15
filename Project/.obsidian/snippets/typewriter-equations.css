@@ -1,0 +1,25 @@
+/* ============================================
+     Typewriter / TeX-style mathematics
+     ============================================ */
+
+.math-block mjx-container,
+.math-inline mjx-container {
+	font-family:
+		"Latin Modern Math", "STIX Two Math", "Computer Modern", serif !important;
+}
+
+/* Slightly heavier mathematical ink */
+.math-block mjx-container {
+	font-size: 1em;
+}
+
+/* Inline equations */
+.math-inline mjx-container {
+	font-size: 1em;
+}
+
+/* Subtle mechanical spacing */
+.math-block mjx-container,
+.math-inline mjx-container {
+	letter-spacing: 0.01em;
+}

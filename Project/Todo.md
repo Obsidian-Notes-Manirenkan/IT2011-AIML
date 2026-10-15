@@ -1,0 +1,8 @@
+- [ ] Explain the model suitability to the assigned dataset and chosen problem
+- [ ] Explain the implementation details (libraries, functions, hyperparameters)
+- [ ] [[Project's Hyperparameter Tuning|Explain the parameter tuning methods]] (e.g., GridSearchCV, manual tuning)
+- [ ] Explain the number and variety of models trained by tuning parameters
+- [ ] Explain the evaluation metric(s), and why are they appropriate
+- [ ] Explain the validation method used
+- [ ] [[Target#^0d2cd3|Explain any limitations]]
+- [ ] Explain any improvements

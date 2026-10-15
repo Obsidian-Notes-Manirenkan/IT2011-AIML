@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Primary",
+  "accentColor": "#615e5c",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "typewriter-equations",
+    "larger-equations"
+  ],
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
+}

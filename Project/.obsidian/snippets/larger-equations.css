@@ -1,0 +1,19 @@
+/* Claude-style LaTeX */
+
+.math-block {
+	font-size: 1.3em;
+}
+
+.math-block mjx-container,
+.math-block .katex {
+	font-size: 1.05em;
+}
+
+/* Inline equations */
+.math-inline {
+	font-size: 1.1em;
+}
+
+.math-inline .katex {
+	font-size: 1.1em;
+}
