@@ -11,6 +11,7 @@
 ---
 
 # Parts of Perceptron
+[[Weighted Sum and Weights Explained]]
 [[Bias]]
 [[Activation Function]]
 

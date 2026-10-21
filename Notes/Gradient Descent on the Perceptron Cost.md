@@ -1,3 +1,9 @@
+![[Pasted image 20261021153920.png]]
+
+- $g$ - gradient of that point
+
+---
+
 This explains **how** the weights are changed to reduce the cost $J(\mathbf{w})$.
 
 **Key concepts:**

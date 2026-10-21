@@ -27,62 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gradient Descent on the Perceptron Cost.md",
-                "mode": "source",
+                "file": "Notes/Weighted Sum and Weights Explained.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent on the Perceptron Cost"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4b69bc18754c54d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f218edee1f5c059b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\AIML",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "win32IntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "C:\\Windows\\System32\\cmd.exe"
+              "title": "Weighted Sum and Weights Explained"
             }
           }
         ]
@@ -147,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b2aaf4bc5cb7344",
@@ -267,15 +216,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f218edee1f5c059b",
+  "active": "e6c17af95393a50d",
   "lastOpenFiles": [
-    "Notes/Gradient Descent on the Perceptron Cost.md",
-    "Notes/Batch Perceptron Algorithm.md",
-    "Notes/Unconfirmed 424392.crdownload",
-    "Notes/Resources/~$Reference Sheet (AIML).tmp",
-    "Images/Pasted image 20261019151325.png",
-    "Notes/Neuron.md",
+    "Notes/Single-Weight View of Gradient Descent.md",
     "Notes/Signum Function.md",
+    "Notes/Gradient Descent on the Perceptron Cost.md",
+    "Notes/Neuron.md",
+    "Notes/Weighted Sum and Weights Explained.md",
+    "Notes/Unconfirmed 385499.crdownload",
+    "Papers/Final Exam Revision Session Materials/Revision Supervised and Unsupervised Learning Algorithms Answer.pdf",
+    "Papers/Final Exam Revision Session Materials/Revision Session – Supervised and Unsupervised Learning Algorithms Questions.pdf",
+    "Papers/Final Exam Revision Session Materials/Revision Revision Session – Supervised and Unsupervised Learning Explanation.pdf",
+    "Papers/Final Exam Revision Session Materials/Revision Deep Learning.pdf",
+    "Papers/Final Exam Revision Session Materials",
+    "Papers/Final Exam Revision Session Materials.zip",
+    "Papers/Unconfirmed 267284.crdownload",
+    "_inspect_ref2.py",
+    "_inspect_reference_sheet.py",
+    "Images/Pasted image 20261021153920.png",
+    "Notes/Batch Perceptron Algorithm.md",
+    "Images/Pasted image 20261019151325.png",
     "Notes/Activation Function.md",
     "Images/Pasted image 20261018175523.png",
     "Images/Pasted image 20261018175045.png",
@@ -283,14 +243,10 @@
     "Images/Pasted image 20261014212749.png",
     "Notes/neuron_real_world_example.md",
     "Images/Pasted image 20261018084218.png",
-    "Notes/Resources",
-    "Lecture/Lecture 03 - Machine Learning Pipeline.pdf",
     "Images/Pasted image 20261014213217.png",
     "Images/Pasted image 20261014213119.png",
     "Images/Pasted image 20261014212836.png",
     "Images/Pasted image 20261014212827.png",
-    "Images/Pasted image 20261014212706.png",
-    "Images",
     "file:C:/Users/LENOVO/.gemini/antigravity/scratch/binary_classification_dataset.md",
     "Technologies to use when developing the website.md",
     "Todo.md",
@@ -309,12 +265,7 @@
     "Uriah.md",
     "Matthew - Family Tree.canvas",
     "Charted Roots/People/Abraham.md",
-    "Charted Roots/People",
-    "Charted Roots",
     "Family Tree.canvas",
-    "Books.md",
-    "Gemini.md",
-    "Genesis.md",
-    "Word-Smith"
+    "Books.md"
   ]
 }
