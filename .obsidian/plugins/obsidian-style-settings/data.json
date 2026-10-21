@@ -1,5 +1,6 @@
 {
   "primary-theme@@h2-vt-align-center": false,
   "primary-theme@@h2-color@@dark": "#9DAFC0",
-  "primary-theme@@h2-size": "1.3em"
+  "primary-theme@@h2-size": "1.5em",
+  "primary-theme@@h2-weight": 800
 }

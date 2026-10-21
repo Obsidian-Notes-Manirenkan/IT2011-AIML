@@ -3,5 +3,14 @@
   "attachmentFolderPath": "Images",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

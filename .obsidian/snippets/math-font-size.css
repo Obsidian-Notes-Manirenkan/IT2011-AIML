@@ -1,0 +1,11 @@
+/* Increase math equation font size */
+
+/* Display equations */
+.math-block {
+	font-size: 1.25em !important;
+}
+
+/* Inline equations */
+.math-inline {
+	font-size: 1.2em !important;
+}

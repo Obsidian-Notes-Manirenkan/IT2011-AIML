@@ -134,7 +134,7 @@
   "language": "",
   "macOSOptionKeyPassthrough": true,
   "rightClickAction": "copyPaste",
-  "newInstanceBehavior": "newHorizontalSplit",
+  "newInstanceBehavior": "newVerticalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
   "pinNewInstance": true,

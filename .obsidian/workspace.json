@@ -4,78 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b43949de47c6a1",
-        "type": "split",
+        "id": "d21f8e2cdbec8d89",
+        "type": "tabs",
         "children": [
           {
-            "id": "d21f8e2cdbec8d89",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa3b27412a9c6afd",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Lecture/Lecture 03 - Machine Learning Pipeline.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Lecture 03 - Machine Learning Pipeline"
-                }
-              }
-            ]
+            "id": "e6c17af95393a50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Neuron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neuron"
+            }
           },
           {
-            "id": "898ae5523e02bbfc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "37bc4422e94b9fb9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\AIML",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "environment": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "win32Backend": "conpty"
-                      },
-                      "profileSourceId": "win32IntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "C:\\Windows\\System32\\cmd.exe"
-                }
-              }
-            ]
+            "id": "c9ca9fb8f33fdee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Gradient Descent on the Perceptron Cost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradient Descent on the Perceptron Cost"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "4b69bc18754c54d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f218edee1f5c059b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\AIML",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "C:\\Windows\\System32\\cmd.exe"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b2aaf4bc5cb7344",
@@ -153,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Notes/Neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hi.md",
+                "file": "Notes/Neuron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -236,8 +247,7 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,17 +267,29 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "37bc4422e94b9fb9",
+  "active": "f218edee1f5c059b",
   "lastOpenFiles": [
-    "Lecture/Lecture 03 - Machine Learning Pipeline.pdf",
+    "Notes/Gradient Descent on the Perceptron Cost.md",
+    "Notes/Batch Perceptron Algorithm.md",
+    "Notes/Unconfirmed 424392.crdownload",
+    "Notes/Resources/~$Reference Sheet (AIML).tmp",
+    "Images/Pasted image 20261019151325.png",
     "Notes/Neuron.md",
+    "Notes/Signum Function.md",
+    "Notes/Activation Function.md",
+    "Images/Pasted image 20261018175523.png",
+    "Images/Pasted image 20261018175045.png",
+    "Notes/Bias.md",
+    "Images/Pasted image 20261014212749.png",
+    "Notes/neuron_real_world_example.md",
+    "Images/Pasted image 20261018084218.png",
+    "Notes/Resources",
+    "Lecture/Lecture 03 - Machine Learning Pipeline.pdf",
     "Images/Pasted image 20261014213217.png",
     "Images/Pasted image 20261014213119.png",
     "Images/Pasted image 20261014212836.png",
     "Images/Pasted image 20261014212827.png",
-    "Images/Pasted image 20261014212749.png",
     "Images/Pasted image 20261014212706.png",
-    "Images/Pasted image 20261014212659.png",
     "Images",
     "file:C:/Users/LENOVO/.gemini/antigravity/scratch/binary_classification_dataset.md",
     "Technologies to use when developing the website.md",
@@ -276,11 +298,8 @@
     "Tips for designing a portfolio website.md",
     "விண்வெளி நாயகா.md",
     "Hello.md",
-    "Images/Pasted image 20261009171411.png",
-    "Images/Color Hunt Palette faf3e1f5e7c6fa8112222222.png",
     "Used Technologies.md",
     "file:C:/Users/LENOVO/Downloads/Project Structure.md",
-    "Images/Pasted image 20261008155345.png",
     "Frontend.md",
     "2026-10-08.md",
     "Discussion Page.md",
@@ -296,11 +315,6 @@
     "Books.md",
     "Gemini.md",
     "Genesis.md",
-    "file:E:/Documents/English/Types of Sentences.md",
-    "Hi.md",
-    "hi.md",
-    "Word-Smith/ws-structure.md",
-    "Word-Smith/ws-settings.md",
     "Word-Smith"
   ]
 }
