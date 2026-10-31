@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions for AI/LaTeX Formatting Instructions.md",
-                "mode": "source",
+                "file": "Instructions for AI/Instructions for Creating .md files.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX Formatting Instructions"
+              "title": "Instructions for Creating .md files"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions for AI/LaTeX Formatting Instructions.md",
+                "file": "Instructions for AI/Instructions for Creating .md files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,9 +205,12 @@
   },
   "active": "e6c17af95393a50d",
   "lastOpenFiles": [
+    "Notes/Strength and Direction of Connection.md",
     "Instructions for AI/Instructions for Creating .md files.md",
-    "Instructions for AI",
     "Instructions for AI/LaTeX Formatting Instructions.md",
+    "Notes/Unconfirmed 350152.crdownload",
+    "Notes/Unconfirmed 243114.crdownload",
+    "Instructions for AI",
     "Notes/Practical Example of Weighted Sum.md",
     "Notes/Neuron.md",
     "Notes/Weighted Sum and Weights Explained.md",
@@ -223,8 +226,6 @@
     "Papers/Final Exam Revision Session Materials/Revision Session – Supervised and Unsupervised Learning Algorithms Questions.pdf",
     "Papers/Final Exam Revision Session Materials/Revision Revision Session – Supervised and Unsupervised Learning Explanation.pdf",
     "Papers/Final Exam Revision Session Materials/Revision Deep Learning.pdf",
-    "Papers/Final Exam Revision Session Materials",
-    "Papers/Final Exam Revision Session Materials.zip",
     "Images/Pasted image 20261021153920.png",
     "Notes/Batch Perceptron Algorithm.md",
     "Images/Pasted image 20261019151325.png",
@@ -250,7 +251,6 @@
     "2026-10-08.md",
     "Discussion Page.md",
     "Requirements.md",
-    "Technologies Used.md",
     "Matthew - Family Tree.canvas",
     "Family Tree.canvas"
   ]
