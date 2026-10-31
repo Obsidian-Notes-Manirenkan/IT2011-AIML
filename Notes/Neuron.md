@@ -6,7 +6,7 @@
 
 ![[Pasted image 20261018175045.png]]
 
-![[Pasted image 20261018175523.png]]
+![[Pasted image 20261018175523.png]]^model-of-neuron
 
 ---
 
