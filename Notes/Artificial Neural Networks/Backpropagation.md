@@ -1,0 +1,1 @@
+![[Pasted image 20261031155339.png]] ^backpropagation-process

@@ -1,1 +1,8 @@
 - [ ] [[Neuron#^model-of-neuron|Model of Neuron]]
+- [ ] [[Backpropagation]]
+- [ ] [[Forward Propagation]]
+- [ ] Mark the lowest point in the gradient descent 3d graph
+- [ ] Mark the global/local minimum point in the learning rate graph
+- [ ] [[Adding Dropouts]], [[Early Stopping]]
+- [ ] [[Dunn Index]]
+- [ ] [[single_linkage_dendrogram.png|Dendrogram]]
