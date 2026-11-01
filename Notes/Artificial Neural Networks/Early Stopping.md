@@ -1,1 +1,5 @@
 ![[Pasted image 20261031181347.png]]
+
+---
+
+[[Underfitting & Overfitting]]

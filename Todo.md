@@ -3,6 +3,11 @@
 - [ ] [[Forward Propagation]]
 - [ ] Mark the lowest point in the gradient descent 3d graph
 - [ ] Mark the global/local minimum point in the learning rate graph
-- [ ] [[Adding Dropouts]], [[Early Stopping]]
+- [ ] [[Adding Dropouts]], [[Early Stopping]] (along with the overfitting graph as well)
+	- **How can we identify whether the model is overfitting or not by using a diagram**
 - [ ] [[Dunn Index]]
 - [ ] [[single_linkage_dendrogram.png|Dendrogram]]
+- [ ] [[Labsheet 1]]
+- [ ] Uses of Hugging Face
+- [ ] Gen AI Lecture
+- [ ] Labsheets
