@@ -1,13 +1,14 @@
-- [ ] [[Neuron#^model-of-neuron|Model of Neuron]]
-- [ ] [[Backpropagation]]
-- [ ] [[Forward Propagation]]
-- [ ] Mark the lowest point in the gradient descent 3d graph
-- [ ] Mark the global/local minimum point in the learning rate graph
-- [ ] [[Adding Dropouts]], [[Early Stopping]] (along with the overfitting graph as well)
+- [x] [[Neuron#^model-of-neuron|Model of Neuron]]
+- [x] [[Backpropagation]]
+- [x] [[Forward Propagation]]
+- [x] Mark the lowest point in the gradient descent 3d graph
+- [x] Mark the global/local minimum point in the learning rate graph
+- [x] [[Adding Dropouts]], [[Early Stopping]] (along with the overfitting graph as well)
 	- **How can we identify whether the model is overfitting or not by using a diagram**
-- [ ] [[Dunn Index]]
-- [ ] [[single_linkage_dendrogram.png|Dendrogram]]
-- [ ] [[Labsheet 1]]
+- [x] [[Dunn Index]]
+- [x] [[single_linkage_dendrogram.png|Dendrogram]]
+- [ ] [[Lab Sheet 01 - Code]]
 - [ ] Uses of Hugging Face
 - [ ] Gen AI Lecture
-- [ ] Labsheets
+- [ ] Lab Sheets
+- [x] For the agglomerative clustering, "If there’s a tie, we can take any from those 2. Final result is the same"
